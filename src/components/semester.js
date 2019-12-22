@@ -24,7 +24,7 @@ class Semester extends Component{
                     cname.classList.add("course-name");
 
         var cunits= document.createElement("input");
-                    cunits.setAttribute("type", "text");
+                    cunits.setAttribute("type", "number");
                     cunits.setAttribute("placeholder", "CU");
                     cunits.classList.add("cu");
 
