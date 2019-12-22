@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Semester from './components/semester';
 import Incomplete from './components/incomplete';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {HashRouter as Router, Route, Switch} from 'react-router-dom';
 import {Link} from 'react-router-dom';
 
 import './Application.css';
