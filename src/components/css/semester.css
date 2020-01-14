@@ -27,6 +27,8 @@
     height: 30px;
     width: 13em;
     outline: none;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .cu{
     width: 40px;
@@ -81,7 +83,7 @@ option{
 }
 .calculate{
     width: 20em;
-    height: 30px;
+    height: 40px;
     color: white;
     background: blue;
     border: none;
