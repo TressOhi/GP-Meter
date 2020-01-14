@@ -103,7 +103,7 @@ class Semester extends Component{
         if ((totalCreditUnit[0].value)==creditUnitSum){
             var result = totalGradeByUnit/totalCreditUnit[0].value;
             if(Number.isNaN(result)){
-                alert("You should consider filling in the blanks");
+                alert("You should consider filling in the blanks appropriately");
             }
             else{
                 this.setState({
