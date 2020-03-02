@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GP-Meter/static/css/main.3f723606.chunk.css",
+    "main.js": "/GP-Meter/static/js/main.41c441c8.chunk.js",
+    "main.js.map": "/GP-Meter/static/js/main.41c441c8.chunk.js.map",
+    "runtime-main.js": "/GP-Meter/static/js/runtime-main.22521626.js",
+    "runtime-main.js.map": "/GP-Meter/static/js/runtime-main.22521626.js.map",
+    "static/js/2.5156006b.chunk.js": "/GP-Meter/static/js/2.5156006b.chunk.js",
+    "static/js/2.5156006b.chunk.js.map": "/GP-Meter/static/js/2.5156006b.chunk.js.map",
+    "index.html": "/GP-Meter/index.html",
+    "precache-manifest.694ee03b2fdc2bd5ee5f4808d92d43c3.js": "/GP-Meter/precache-manifest.694ee03b2fdc2bd5ee5f4808d92d43c3.js",
+    "service-worker.js": "/GP-Meter/service-worker.js",
+    "static/css/main.3f723606.chunk.css.map": "/GP-Meter/static/css/main.3f723606.chunk.css.map",
+    "static/js/2.5156006b.chunk.js.LICENSE": "/GP-Meter/static/js/2.5156006b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22521626.js",
+    "static/js/2.5156006b.chunk.js",
+    "static/css/main.3f723606.chunk.css",
+    "static/js/main.41c441c8.chunk.js"
+  ]
+}
